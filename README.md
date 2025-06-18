@@ -28,7 +28,7 @@ Focus: Python, SQL, statistics, machine learning foundations, project-based lear
 | Project 4: SQL for Data Science | Week 7 |
 | Project 5: Probability Simulations | Week 9 |
 | Midterm Project | Week 6 |
-| Final Project | Weeks 11–14 |
+| Final Project | Weeks 9–14 |
 
 ## 📢 How to Use This Repo
 
