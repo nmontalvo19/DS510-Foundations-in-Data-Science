@@ -17,9 +17,10 @@ Focus: Python, SQL, statistics, machine learning foundations, project-based lear
 
 ## 🎓 Certifications
 
-- IBM Data Science Foundations (target by Week 6)
-- KNIME L1 (target by Week 10)
-- (Optional) Google Cloud Skills Boost
+-	IBM Data Science Foundations Course: IBM Introduction to Data Science Plan
+-	KNIME L1 certification materials Course: Available examinations: L1: Basic Proficiency in KNIME Analytics Platform
+-	Google Cloud Skills Boost (optional extra credit): Integrate Generative AI Into Your Data Workflow
+
 
 ## 🗂 Project Timeline
 
