@@ -1,4 +1,4 @@
-# DS-510 Foundations of Data Science (Fall 2025)
+# DS-510 Foundations of Data Science
 
 **Projects, templates, and resources for DS-510: Foundations of Data Science (MS in Data Science), Saint Peter’s University.**  
 Focus: Python, SQL, statistics, machine learning foundations, project-based learning.
