@@ -1,109 +1,124 @@
+# DS-510 Projects & Templates
 
-# DS-510 Projects & Templates Document
-
----
-
-### Project 1: Python Basics & Data Types
-
+## Project 1: Python Basics & Data Types
 **Objective:**  
-Build foundational Python skills to prepare, clean, and summarize data.
+Build foundational Python skills for basic data analysis.
 
-**Deliverable:**
-- Jupyter notebook demonstrating Python basics
-- Data cleaning exercise on a small CSV file
-- Simple summary statistics and visualizations
+**Deliverables:**  
+- Jupyter notebook showing:
+    - Python variables & data types
+    - Data import
+    - Basic cleaning
+    - Simple visualizations
 
-**Suggested Kaggle Datasets:**
-- [Students Performance in Exams](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
-- [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/data)
+**Suggested Kaggle Datasets:**  
+- [Students Performance in Exams](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)  
+- [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)  
 - [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 **Due:** End of Week 2
 
 ---
 
-### Project 2: Pandas, NumPy & EDA
-
+## Project 2: EDA with Pandas
 **Objective:**  
 Perform exploratory data analysis using Pandas & NumPy.
 
-**Deliverable:**
+**Deliverables:**  
 - Jupyter notebook with EDA workflow
-- Multiple visualizations
-- Insights from data
+- Visualizations (histograms, boxplots, correlations)
+- Written insights
 
-**Suggested Kaggle Datasets:**
-- [World Happiness Report](https://www.kaggle.com/datasets/unsdsn/world-happiness)
-- [Country GDP and Life Expectancy](https://www.kaggle.com/datasets/koryto/country-gdp-and-life-expectancy)
-- [Car Price Dataset](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction)
+**Suggested Kaggle Datasets:**  
+- [World Happiness Report](https://www.kaggle.com/datasets/unsdsn/world-happiness)  
+- [Country GDP and Life Expectancy](https://www.kaggle.com/datasets/iamsouravbanerjee/country-wise-life-expectancy-and-gdp)  
+- [Car Price Dataset](https://www.kaggle.com/datasets/CooperUnion/cardataset)
 
 **Due:** End of Week 3
 
 ---
 
-### Project 3: Data Visualization
-
+## Project 3: Data Visualization
 **Objective:**  
-Develop clear and professional visualizations.
+Create clear and professional visualizations with Matplotlib and Pandas.
 
-**Deliverable:**
-- Jupyter notebook with multiple visualization types
-- Dashboard-style summary
+**Deliverables:**  
+- Jupyter notebook with:
+    - Multiple visualization types
+    - Dashboard-style summary
 
-**Suggested Kaggle Datasets:**
-- [COVID-19 World Data](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
-- [Global Suicide Rates](https://www.kaggle.com/datasets/szamil/who-suicide-statistics)
-- [Spotify Tracks](https://www.kaggle.com/datasets/maharshipandya/spotify-dataset)
+**Suggested Kaggle Datasets:**  
+- [COVID-19 World Data](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)  
+- [Global Suicide Rates](https://www.kaggle.com/datasets/szamil/who-suicide-statistics)  
+- [Spotify Tracks](https://www.kaggle.com/datasets/maharshipandya/complete-spotify-track-dataset)
 
 **Due:** End of Week 5
 
 ---
 
-### Project 4: SQL for Data Science
-
+## Midterm Project: Regression & Modeling
 **Objective:**  
-Gain proficiency writing SQL queries.
+Apply linear and multiple regression to real-world data.
 
-**Deliverable:**
-- Notebook with SQL queries using SQLite or PostgreSQL
-- Summary of insights gained from SQL
+**Deliverables:**  
+- Jupyter notebook with regression models
+- Interpretation of results
+- Visual presentation
 
-**Suggested Kaggle Datasets:**
-- [IMDb Movie Database](https://www.kaggle.com/datasets/ashirwadsangwan/imdb-dataset)
-- [Stack Overflow Survey 2023](https://www.kaggle.com/datasets/stackoverflow/stack-overflow-2023-developer-survey)
-- [E-commerce data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+**Suggested Kaggle Datasets:**  
+- [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)  
+- [Car MPG Dataset](https://www.kaggle.com/datasets/uciml/automobile-dataset)  
+- Any open Kaggle dataset
+
+**Due:** End of Week 6
+
+---
+
+## Project 4: Classification or Clustering (ML)
+**Objective:**  
+Implement classification (logistic regression, decision trees) or clustering (k-means).
+
+**Deliverables:**  
+- Jupyter notebook with ML workflow
+- Model evaluation metrics
+- Visual presentation
+
+**Suggested Kaggle Datasets:**  
+- [Iris Dataset](https://www.kaggle.com/datasets/uciml/iris)  
+- [Breast Cancer Wisconsin](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)  
+- [Credit Card Default](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset)
 
 **Due:** End of Week 7
 
 ---
 
-### Project 5: Probability Simulations
-
+## Project 5: Data Storytelling & Ethics
 **Objective:**  
-Apply probability simulations and statistical thinking.
+Communicate data-driven insights with a focus on ethics.
 
-**Deliverable:**
-- Notebook with simulation experiments
-- Statistical interpretations
+**Deliverables:**  
+- Notebook & written report
+- Ethical reflection (based on *Data Renaissance*)
+- Storytelling visualization(s)
 
-**Suggested Kaggle Datasets:**
-- [Loan Prediction Dataset](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset)
-- [NBA Player Stats](https://www.kaggle.com/datasets/drgilermo/nba-players-stats)
-- [Olympic Athletes and Medals](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
+**Suggested Kaggle Datasets:**  
+- Any dataset from prior projects  
+- OR new dataset related to AI, healthcare, society, or ethics
 
 **Due:** End of Week 9
 
 ---
 
-### Midterm Project
+## Final Project
+**Objective:**  
+Capstone project — Build a full data analysis pipeline using tools learned in class.
 
-**Note:** You may use **any approved Kaggle dataset**, or continue exploring one of the suggested datasets from Projects 1–5. You may also request approval to use a dataset of your own choice.
+**Deliverables:**  
+- Notebook and/or dashboard
+- Written final report
+- Presentation (live or video)
 
----
-
-### Final Project
-
-**Note:** You may use **any approved Kaggle dataset**, or a dataset of your own choice (with instructor approval). You may also build on a dataset used in an earlier project if you extend the analysis meaningfully.
+**Due:** End of Weeks 13–14
 
 ---
 
