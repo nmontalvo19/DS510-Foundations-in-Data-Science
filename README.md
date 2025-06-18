@@ -18,17 +18,18 @@ Focus: Python, SQL, statistics, machine learning foundations, project-based lear
 - [Google Cloud Skills Boost (optional extra credit): Integrate Generative AI Into Your Data Workflow](https://www.cloudskillsboost.google/paths/1281)
 
 
-## 🗂 Project Timeline
+## 📅 Project Timeline
 
-| Project | Due |
-| --- | --- |
-| Project 1: Python Basics | Week 2 |
-| Project 2: Pandas, NumPy & EDA | Week 3 |
-| Project 3: Data Visualization | Week 5 |
-| Project 4: SQL for Data Science | Week 7 |
-| Project 5: Probability Simulations | Week 9 |
-| Midterm Project | Week 6 |
-| Final Project | Weeks 9–14 |
+| Project                                    | Due        |
+|--------------------------------------------|------------|
+| Project 1: Python Basics & Data Types      | Week 2     |
+| Project 2: EDA with Pandas                 | Week 3     |
+| Project 3: Data Visualization              | Week 5     |
+| Midterm Project: Regression & Modeling     | Week 6     |
+| Project 4: Classification or Clustering    | Week 7     |
+| Project 5: Data Storytelling & Ethics      | Week 9     |
+| Final Project: Build & Presentation        | Weeks 10–14 |
+
 
 ## 📢 How to Use This Repo
 
