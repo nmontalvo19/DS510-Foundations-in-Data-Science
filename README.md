@@ -9,17 +9,13 @@ Focus: Python, SQL, statistics, machine learning foundations, project-based lear
 
 ## 📂 Repository Structure
 
-```
-/projects      # student project examples or starter templates
-/templates     # project instructions & report templates
-[/resources](ds510-resources.md)     # supplemental resources (cheat sheets, links, datasets)
-```
+- [Resources](ds510-resources.md)     # supplemental resources (cheat sheets, links, datasets)
 
 ## 🎓 Certifications
 
--	IBM Data Science Foundations Course: IBM Introduction to Data Science Plan
--	KNIME L1 certification materials Course: Available examinations: L1: Basic Proficiency in KNIME Analytics Platform
--	Google Cloud Skills Boost (optional extra credit): Integrate Generative AI Into Your Data Workflow
+- [IBM SkillsBuild Data Science Foundations](https://students.yourlearning.ibm.com/activity/PLAN-F0DF852C4003))
+- [KNIME L1 certification materials Course: Available examinations: L1: Basic Proficiency in KNIME Analytics Platform](https://www.knime.com/certification-program)
+- [Google Cloud Skills Boost (optional extra credit): Integrate Generative AI Into Your Data Workflow](https://www.cloudskillsboost.google/paths/1281)
 
 
 ## 🗂 Project Timeline
