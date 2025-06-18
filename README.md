@@ -5,7 +5,7 @@ Focus: Python, SQL, statistics, machine learning foundations, project-based lear
 
 ## 📚 Course Materials
 
-- [Projects & Templates Document](templates/ds510-projects-and-templates.md)
+- [Projects & Templates Document](ds510-projects-and-templates.md)
 
 ## 📂 Repository Structure
 
