@@ -12,7 +12,7 @@ Focus: Python, SQL, statistics, machine learning foundations, project-based lear
 ```
 /projects      # student project examples or starter templates
 /templates     # project instructions & report templates
-/resources     # supplemental resources (cheat sheets, links, datasets)
+[/resources](ds510-resources.md)     # supplemental resources (cheat sheets, links, datasets)
 ```
 
 ## 🎓 Certifications
