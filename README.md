@@ -33,7 +33,7 @@ Focus: Python, SQL, statistics, machine learning foundations, project-based lear
 | Midterm Project | Week 6 |
 | Final Project | Weeks 11–14 |
 
-## 🚀 How to Use This Repo
+## 📢 How to Use This Repo
 
 1. Read the [Projects & Templates Document](templates/ds510-projects-and-templates.md)
 2. Follow assignment instructions for each project
@@ -42,11 +42,11 @@ Focus: Python, SQL, statistics, machine learning foundations, project-based lear
     - Follow template for README.md in your project repos
 4. Upload deliverables to GitHub, submit links on Blackboard
 
-## 📢 Instructor
+##  🌞 Instructor
 
-**[Your Name]**  
+**Natasha Montalvo**  
 Saint Peter’s University  
-Email: [your email]
+Email: nmontalvo19@saintpeters.edu
 
 ---
 
